@@ -2,6 +2,13 @@
 
 LLM JobScout is an advanced web application designed to streamline the extraction and organization of Computer Science & Engineering (CSE) job listings from online job portals. Utilizing a large language model (LLM) via the Groq API and LangChain, the app scrapes job-related content from specified websites and organizes it into a structured JSON format. This enables job seekers and data analysts to easily view and analyze CSE-specific job postings, sorted by role, experience, required skills, deadline, and more.
 
+## Demo
+
+Watch a demonstration of **LLM JobScout** in action:
+
+[![LLM JobScout Demo](https://img.youtube.com/vi/edVdWXfbX64/0.jpg)](https://youtu.be/edVdWXfbX64)
+
+
 ## Key Features
 - **Targeted Job Data Extraction**: Extracts and structures CSE job postings based on role, experience, required skills, deadline, and other key information.
 - **Modular and Scalable Architecture**: Built with Streamlit and LangChain to ensure scalability and modularity for easy extension and maintenance.
